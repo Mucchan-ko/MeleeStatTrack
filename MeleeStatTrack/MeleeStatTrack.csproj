@@ -9,8 +9,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
     <Folder Include="Interfaces\" />
+    <Folder Include="Models\Database\" />
+    <Folder Include="Models\Response\Snippet\" />
+    <Folder Include="Models\Response\Page\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
 
 </Project>
